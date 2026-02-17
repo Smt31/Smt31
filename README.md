@@ -34,16 +34,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://gh-stats-gen.vercel.app/api?username=Smt31&theme=tokyonight" />
-  <img height="170" src="https://gh-stats-gen.vercel.app/api/top-langs?username=Smt31&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smt31&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Smt31&theme=tokyonight" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smt31&theme=tokyo-night" /> -->
 </p>
 
 ---
 
 ## 🔥 Streak Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Smt31&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Smt31&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
