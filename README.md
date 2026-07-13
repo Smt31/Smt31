@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Prefinal-year student  
+🎓 Final-year student  
 💻 Java | React | JDBC | PostgreSQL  
 🚀 Building real-world applications  
 🔥 Interested in Backend Development  
@@ -22,14 +22,9 @@
 ## 🛠 Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,react,spring,js,html,css,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,aws,docker,postgresql,mysql,redis" />
 </p>
 
-## ⚙️ Tools & IDEs
-<p align="center">
-
-<img src="http://skillicons.dev/icons?i=intellij,vscode,git,github" />
-</p>
 
 ## 📊 GitHub Stats
 
